@@ -50,3 +50,10 @@ This data helps analyze how different customer attributes influence churn behavi
 📌 Conclusion
 
 This project analyzes customer data to identify patterns and key factors influencing customer churn. The Power BI dashboard provides clear insights into customer behavior, helping businesses understand why customers leave. These insights can support better decision-making and help organizations improve customer retention strategies.
+👩‍💻 Author
+
+Akhila Dadi
+
+Aspiring Data Analyst skilled in:
+
+SQL,Python,Excel,Power BI,Data Cleaning & Visualization
